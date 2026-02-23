@@ -1,3 +1,6 @@
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security%20Focused-blue)
+![IT Manager](https://img.shields.io/badge/Role-IT%20Manager-darkgreen)
 # akhilavishnu-security-profile
 
 
